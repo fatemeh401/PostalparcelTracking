@@ -8,8 +8,8 @@
 >...This project is a simple system for tracking postal packages. Users can enter a tracking code and receive the current status of their shipment.
 
 ## Project Objectives
--1 Provide users with a simple tool to track postal packages using a unique tracking code.
--2 Display the current delivery status of each package clearly and accurately.
+1- Provide users with a simple tool to track postal packages using a unique tracking code.
+2- Display the current delivery status of each package clearly and accurately.
 
 ## Technologies and Tools
 - Programming Language: Python 
