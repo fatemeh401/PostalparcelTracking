@@ -16,7 +16,6 @@
 - Framework: Laravel 
 - Database: MySQL
 
-  ## Documentation
 
 
   ## Initial Project Schedule
