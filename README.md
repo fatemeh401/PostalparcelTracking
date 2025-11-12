@@ -12,14 +12,12 @@
 2- Display the current delivery status of each package clearly and accurately.
 
 ## Technologies and Tools
-- Programming Language: Python 
-- Framework: Flask 
+- Programming Language: PhP 
+- Framework: Laravel 
 - Database: MySQL
 
   ## Documentation
-- [Requirements Analysis](docs/requirements.md)
-- [Use Cases and Scenarios](docs/use_cases.md)
-- [System Architecture](docs/architecture.md)
+
 
   ## Initial Project Schedule
 | Phase | Description           | Timeframe     |
