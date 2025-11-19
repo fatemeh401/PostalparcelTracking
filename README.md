@@ -16,7 +16,7 @@
 ...
 
 ## Documentation
- - [Documentation](docs/README.md)
+ - [Documentation list](docs/README.md)
 
   ## Initial Project Schedule
 | Phase | Description           | Timeframe     |
