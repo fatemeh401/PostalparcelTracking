@@ -13,9 +13,7 @@
 2- Display the current delivery status of each package clearly and accurately.
 
 ## Technologies and Tools
-- Programming Language: PhP 
-- Framework: Laravel 
-- Database: MySQL
+
 
 
 
@@ -23,8 +21,7 @@
 | Phase | Description           | Timeframe     |
 |-------|------------------------|---------------|
 | Phase 1 | Requirements Analysis | Week 4 to 6   |
-| Phase 2 | System Design         | Week 7 to 9   |
-| Phase 3 | Prototype Development | Week 10 to 12 |
+
 
 ## Contact
 For further information, please contact:  
