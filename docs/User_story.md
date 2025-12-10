@@ -68,7 +68,7 @@ As a user, I want to report an issue so that the support team can review and res
 
 ---
 
-# 🛠 Admin Use Cases
+# Admin Use Cases
 
 ## 7. Update Shipment Status
 ### User Story
