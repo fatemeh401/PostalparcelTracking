@@ -8,7 +8,7 @@ flowchart LR
 
   %% Use Cases
   UC_LOGIN((The user must enter a valid email/username and password.))
-  UC_REGISTER((The user must provide required information :email, phone number, password))
+  UC_REGISTER((The user must provide required information))
   UC_TRACK((The user can enter a valid tracking code.)
   UC_VIEW((VThe system shows the most recent shipment status.))
   UC_NOTIFY((The user can turn notifications on or off))
