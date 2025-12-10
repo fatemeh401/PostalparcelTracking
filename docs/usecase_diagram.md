@@ -7,20 +7,20 @@ flowchart LR
   Support[Support Agent]
 
   %% Use Cases
-  UC_LOGIN((The user must enter a valid email/username and password.))
-  UC_REGISTER((The user must provide required information))
-  UC_TRACK((The user can enter a valid tracking code.)
-  UC_VIEW((VThe system shows the most recent shipment status.))
-  UC_NOTIFY((The user can turn notifications on or off))
-  UC_REPORT((The user can choose issue type and enter a description.))
+  UC_LOGIN((Enter valid email/username & password))
+  UC_REGISTER((Provide required information))
+  UC_TRACK((Enter valid tracking code))
+  UC_VIEW((Show most recent shipment status))
+  UC_NOTIFY((Turn notifications on/off))
+  UC_REPORT((Choose issue type & enter description))
 
-  UC_UPDATE_STATUS((he admin can select and apply a new status))
-  UC_MANAGE_SHIP((The admin can edit shipment information.)
-  UC_MANAGE_COURIER((The admin can edit or deactivate couriers))
-  UC_RESPOND_TICKET((The agent can write and submit a response.))
+  UC_UPDATE_STATUS((Select & apply new status))
+  UC_MANAGE_SHIP((Edit shipment information))
+  UC_MANAGE_COURIER((Edit or deactivate couriers))
+  UC_RESPOND_TICKET((Write & submit a response))
 
-  UC_SCAN((The courier can scan the package code.))
-  UC_UPDATE_LOC((The courier can submit new location information.))
+  UC_SCAN((Scan package code))
+  UC_UPDATE_LOC((Submit new location information))
 
   %% Relationships
   User --> UC_LOGIN
@@ -39,6 +39,7 @@ flowchart LR
   Courier --> UC_UPDATE_LOC
 
   Support --> UC_RESPOND_TICKET
+
 ```
 
  
